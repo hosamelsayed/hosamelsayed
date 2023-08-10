@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Hosam Elsayed
 - 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning JavaScript,html and css
 - 💞️ I’m looking to collaborate on Microsoft
-- 🆔 My discord account Hosam Elsayed#4649
-- 💖 My bot name ProMoon
