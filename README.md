@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<h3>Social Media<h3>
+<h3>Social Media</h3>
 <a href="https://www.linkedin.com/in/hosamdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"></a>
 <a href="https://www.facebook.com/hosamelsayed0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"></a>
 <a href="https://wa.me/+201069574350" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40"></a>
